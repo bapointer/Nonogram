@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: e6721789f1e584d4e870993212578ff9
+  - enabled: 1
+    path: Assets/Scenes/Teapot.unity
+    guid: 75d4511e121d16f4aacfa608c0512054
+  - enabled: 1
+    path: Assets/Scenes/Dog.unity
+    guid: e8fc19b40d8b1564398592b135b832b9
+  - enabled: 1
+    path: Assets/Scenes/Fish.unity
+    guid: 522fb59e7fd1fac45914014a9ee0ce13
+  m_configObjects: {}
